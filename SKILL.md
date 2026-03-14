@@ -1,10 +1,10 @@
 ---
-name: clawra-selfie
-description: Edit Clawra's reference image with Grok Imagine (xAI Aurora) and send selfies to messaging channels via OpenClaw
+name: trinity-selfie
+description: Trinity - your AI assistant with selfie capabilities. Generate and send images via OpenClaw.
 allowed-tools: Bash(npm:*) Bash(npx:*) Bash(openclaw:*) Bash(curl:*) Read Write WebFetch
 ---
 
-# Clawra Selfie
+# Trinity Selfie
 
 Edit a fixed reference image using xAI's Grok Imagine model and distribute it across messaging platforms (WhatsApp, Telegram, Discord, Slack, etc.) via OpenClaw.
 
@@ -13,7 +13,7 @@ Edit a fixed reference image using xAI's Grok Imagine model and distribute it ac
 The skill uses a fixed reference image hosted on jsDelivr CDN:
 
 ```
-https://cdn.jsdelivr.net/gh/SumeLabs/clawra@main/assets/clawra.png
+[https://v3b.fal.media/files/b/0a921041/R5rjfvlxOah87SZhhOPaG_EVBdgqb0.jpg]
 ```
 
 ## When to Use
