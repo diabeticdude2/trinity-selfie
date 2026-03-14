@@ -1,7 +1,7 @@
 {
-  "name": "clawra",
+  "name": "Trinity",
   "version": "1.1.1",
-  "description": "Add selfie superpowers to your OpenClaw agent using xAI Grok Imagine",
+  "description": "Trinity selfie skill for OpenClaw",
   "bin": {
     "clawra": "./bin/cli.js"
   },
@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SumeLabs/clawra"
+    "url": "https://github.com/diabeticdude2/trinity-selfie"
   },
   "homepage": "https://github.com/SumeLabs/clawra#readme",
   "engines": {
